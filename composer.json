@@ -1,18 +1,19 @@
 {
-  "name": "evernote/evernote",
-  "description": "Evernote PHP SDK",
+  "name": "evernote/yinxiang",
+  "description": "Yinxiang PHP SDK",
   "keywords": [
     "evernote",
     "api",
-    "sdk"
+    "sdk",
+    "yinxiang"
   ],
-  "homepage": "https://github.com/evernote/evernote-sdk-php",
-  "version": "1.25.0",
+  "homepage": "https://github.com/fankaibit2011/evernote-sdk-php",
+  "version": "2.0.0",
   "license": "Apache",
   "authors": [
     {
       "name": "Evernote and contributors",
-      "homepage": "https://github.com/evernote/evernote-sdk-php/contributors"
+      "homepage": "https://github.com/fankaibit2011/evernote-sdk-php/contributors"
     }
   ],
   "autoload": {

@@ -29,7 +29,7 @@ class Client
         $options += array('sandbox' => true);
         $this->sandbox = $options['sandbox'];
 
-        $defaultServiceHost = $this->sandbox ? 'sandbox.evernote.com' : 'www.evernote.com';
+        $defaultServiceHost = $this->sandbox ? 'sandbox.evernote.com' : 'app.yinxiang.com';
 
         $options += array('serviceHost' => $defaultServiceHost);
         $this->serviceHost = $options['serviceHost'];
